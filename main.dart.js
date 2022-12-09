@@ -25136,7 +25136,7 @@ lM:function lM(a){this.a=a},
 b4C:function(){var s=0,r=P.q(t.H),q
 var $async$b4C=P.m(function(a,b){if(a===1)return P.n(b,r)
 while(true)switch(s){case 0:s=2
-return P.A(D.an4("SUPABASE_KEY","http://localhost:3000","SUPABASE_URL"),$async$b4C)
+return P.A(D.an4("","http://localhost:3000",""),$async$b4C)
 case 2:if($.af==null)N.bf0()
 q=$.af
 q.a2o(new F.Qv(null))
