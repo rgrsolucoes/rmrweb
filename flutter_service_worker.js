@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "05aaf6873ff6e0166c238d7df4c5bff6",
+  "assets/AssetManifest.json": "7792faa3d4c40426dcfae59e4651d10c",
 "assets/assets/icons/Documents.svg": "0d66436fde3818811c82319665ef91fd",
 "assets/assets/icons/doc_file.svg": "c6c3abe38f2b4e22ab33399b26966b1f",
 "assets/assets/icons/drop_box.svg": "d427e188a7aee4612446d0e9d26e76f1",
@@ -30,6 +30,7 @@ const RESOURCES = {
 "assets/assets/icons/one_drive.svg": "0b0ca635ef35ec9beebb18aaf20cd5d9",
 "assets/assets/icons/pants.svg": "edf4598b64b5f7d5aa3cc2f65932cf9e",
 "assets/assets/icons/pdf_file.svg": "4ea6d2b9e631ee54164987b57fa240c7",
+"assets/assets/icons/respirator.svg": "0b3d5309f51d349d39c445ed91cbf9bb",
 "assets/assets/icons/rubber-boots.svg": "31af0b6eee3a5331eb54a3c0d915cd7e",
 "assets/assets/icons/safety-vest.svg": "08a54c21c6d283995329da2ec1d7d377",
 "assets/assets/icons/Search.svg": "82ad5e39b306dc6a42809cbeef651e64",
@@ -57,9 +58,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "ab460ef1f0f31eb7e7c8e28dab3f80ed",
-"/": "ab460ef1f0f31eb7e7c8e28dab3f80ed",
-"main.dart.js": "9539bbc7a52134e2383b8ef31b4a15c3",
+"index.html": "3a8911bf003763844716f8f09b181e37",
+"/": "3a8911bf003763844716f8f09b181e37",
+"main.dart.js": "6a557af6d7c751241689f4cbd0c2346e",
 "manifest.json": "0675cbfb77b594da43017aa777246335",
 "version.json": "7d757bb15399951b5b011d8370b95ac7"
 };
