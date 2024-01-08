@@ -116991,17 +116991,17 @@ s=L.h("Documentos de "+s,q,q,q,A.b(q,q,C.c,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,
 return M.br(E.bA(!0,!0,new T.b6(C.c,q,q),B.au(q,L.d(C.S,q,q),new U.bdK(r,b),q),s),r.avh(0,b),q,q,q,q)},
 avh:function(a,b){return new A.aZ(new U.bdF(this),null)},
 avi:function(a,b){var s=this,r=null,q=T.u(r,10,r),p=A.b(r,r,C.c,r,r,r,r,r,r,r,r,16,r,r,r,r,!0,r,r,r,r,r,r,r),o=A.b(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r,r),n=L.d(C.P,C.d,r),m=t.p
-n=A.aQ(!1,G.k(G.r(H.a([q,new T.c(new V.j(0,10,0,10),Z.bX(!0,r,!1,r,s.cx,r,r,r,2,L.at(r,new F.I(4,K.c9(new P.bg(10,10)),new Y.R(C.d,1,C.o)),r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,new F.I(4,K.S(15),new Y.R(C.c,1,C.o)),r,!0,r,r,r,r,o,"Nome do arquivo",r,r,r,!1,r,p,"Pesquisar",r,n,r,r,r,r,r,r,r,r,r),!0,!0,r,!1,r,r,r,r,r,!0,r,1,r,!1,"\u2022",new U.bdw(s),r,r,r,!1,r,C.M,r,r,r,r,r,r,r,C.E,r,C.O,r,r,r),r)],m),!0,!0,!0)),s.Q)
+n=A.aQ(!1,G.k(G.r(H.a([q,new T.c(new V.j(0,10,0,10),Z.bX(!0,r,!1,r,s.cx,r,r,r,2,L.at(r,new F.I(4,K.c9(new P.bg(10,10)),new Y.R(C.d,1,C.o)),r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,new F.I(4,K.S(15),new Y.R(C.c,1,C.o)),r,!0,r,r,r,r,o,"Nome do arquivo ou Data",r,r,r,!1,r,p,"Pesquisar",r,n,r,r,r,r,r,r,r,r,r),!0,!0,r,!1,r,r,r,r,r,!0,r,1,r,!1,"\u2022",new U.bdw(s),r,r,r,!1,r,C.M,r,r,r,r,r,r,r,C.E,r,C.O,r,r,r),r)],m),!0,!0,!0)),s.Q)
 if(s.z>0){q=s.r
 q.toString
-q=G.k(G.ay(new U.bdx(s),!0,!0,!0,J.J(q)))}else q=G.k(G.r(H.a([new T.c(C.W,L.h("Nenhum Arquivo Cadastrado",r,r,r,A.b(r,r,C.c,r,r,r,r,r,r,r,r,18,r,C.y,r,r,!0,r,r,r,r,r,r,r),r,r),r)],m),!0,!0,!0))
-return T.af(M.x(r,B.aC(H.a([n,q,G.k(G.r(H.a([new T.c(new V.j(300,10,300,18),T.u(E.ab("Baixar Todos",new U.bdy(s),C.ek,L.d(C.N,r,26),C.c,56,10,s.y,18),r,100),r)],m),!0,!0,!0))],m)),C.k,C.w,r,r,r,r,r,new V.j(6,6,6,6),r,r,b*0.6),r,r)},
+q=G.k(G.ay(new U.bdx(s),!0,!0,!0,J.J(q)))}else q=G.k(G.r(H.a([new T.c(C.W,L.h("Nenhum Arquivo Cadastrado",r,r,r,A.b(r,r,C.c,r,r,r,r,r,r,r,r,18,r,C.m,r,r,!0,r,r,r,r,r,r,r),r,r),r)],m),!0,!0,!0))
+return T.af(M.x(r,B.aC(H.a([n,q,G.k(G.r(H.a([new T.c(new V.j(300,10,300,18),T.u(s.z>0?E.ab("Baixar Todos",new U.bdy(s),C.ek,L.d(C.N,r,26),C.c,56,10,s.y,18):M.x(r,r,C.k,r,r,r,r,r,r,r,r,r,r),r,100),r)],m),!0,!0,!0))],m)),C.k,C.w,r,r,r,r,r,new V.j(6,6,6,6),r,r,b*0.6),r,r)},
 avj:function(a,b){var s=this,r=null,q=T.u(r,10,r),p=A.b(r,r,C.c,r,r,r,r,r,r,r,r,16,r,r,r,r,!0,r,r,r,r,r,r,r),o=A.b(r,r,r,r,r,r,r,r,r,r,r,18,r,r,r,r,!0,r,r,r,r,r,r,r),n=L.d(C.P,C.d,r),m=t.p
 n=A.aQ(!1,G.k(G.r(H.a([q,new T.c(new V.j(0,10,0,10),Z.bX(!0,r,!1,r,s.cx,r,r,r,2,L.at(r,new F.I(4,K.c9(new P.bg(10,10)),new Y.R(C.d,1,C.o)),r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,new F.I(4,K.S(15),new Y.R(C.c,1,C.o)),r,!0,r,r,r,r,o,"Nome do arquivo ou data",r,r,r,!1,r,p,"Pesquisar",r,n,r,r,r,r,r,r,r,r,r),!0,!0,r,!1,r,r,r,r,r,!0,r,1,r,!1,"\u2022",new U.bdC(s),r,r,r,!1,r,C.M,r,r,r,r,r,r,r,C.E,r,C.O,r,r,r),r)],m),!0,!0,!0)),s.Q)
 if(s.z>0){q=s.r
 q.toString
-q=G.k(G.ay(new U.bdD(s),!0,!0,!0,J.J(q)))}else q=G.k(G.r(H.a([new T.c(C.W,L.h("Nenhum Arquivos Cadastrado",r,r,r,A.b(r,r,C.c,r,r,r,r,r,r,r,r,18,r,C.y,r,r,!0,r,r,r,r,r,r,r),r,r),r)],m),!0,!0,!0))
-return T.af(M.x(r,B.aC(H.a([n,q,G.k(G.r(H.a([new T.c(new V.j(300,10,300,18),T.u(E.ab("Baixar Todos",new U.bdE(s),C.ek,L.d(C.N,r,26),C.c,56,10,s.y,18),r,100),r)],m),!0,!0,!0))],m)),C.k,C.w,r,r,r,r,r,new V.j(6,6,6,6),r,r,b),r,r)},
+q=G.k(G.ay(new U.bdD(s),!0,!0,!0,J.J(q)))}else q=G.k(G.r(H.a([new T.c(C.W,L.h("Nenhum Arquivos Cadastrado",r,r,r,A.b(r,r,C.c,r,r,r,r,r,r,r,r,18,r,C.m,r,r,!0,r,r,r,r,r,r,r),r,r),r)],m),!0,!0,!0))
+return T.af(M.x(r,B.aC(H.a([n,q,G.k(G.r(H.a([new T.c(new V.j(300,10,300,18),T.u(s.z>0?E.ab("Baixar Todos",new U.bdE(s),C.ek,L.d(C.N,r,26),C.c,56,10,s.y,18):M.x(r,r,C.k,r,r,r,r,r,r,r,r,r,r),r,100),r)],m),!0,!0,!0))],m)),C.k,C.w,r,r,r,r,r,new V.j(6,6,6,6),r,r,b),r,r)},
 a0:function(){var s=0,r=P.p(t.z),q=this
 var $async$a0=P.l(function(a,b){if(a===1)return P.m(b,r)
 while(true)switch(s){case 0:q.l(new U.bdR(q))
