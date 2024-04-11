@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fa440ba32490283abd24746d22fdbdfd",
+  "assets/AssetManifest.json": "2790866ce5730493c1aaea6adde08862",
 "assets/assets/icons/Documents.svg": "0d66436fde3818811c82319665ef91fd",
 "assets/assets/icons/doc_file.svg": "c6c3abe38f2b4e22ab33399b26966b1f",
 "assets/assets/icons/drop_box.svg": "d427e188a7aee4612446d0e9d26e76f1",
@@ -40,6 +40,7 @@ const RESOURCES = {
 "assets/assets/icons/surgical-mask.svg": "d9cfb92dacf1b1b86080316720be2c08",
 "assets/assets/icons/unknown.svg": "2fc91e195e7a0d6279c01552403c3b89",
 "assets/assets/icons/xd_file.svg": "fd95a4cd96e6c7251ebeac76b7b7c8b9",
+"assets/assets/images/GedSegLogoApp.png": "ff5691655b252383dc7c5023c7fc28c8",
 "assets/assets/images/logo.png": "5315be9d0a7602fb12a0ad4c2e3006e9",
 "assets/assets/images/logoGedsegApp.png": "20b2e064e59bf377e57ee211fe6ae39c",
 "assets/assets/images/logoRMR.png": "ba12985a2d7f5bca911be03f31c96497",
@@ -65,9 +66,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9cd9835d303a1717e9856ef1dce44664",
-"/": "9cd9835d303a1717e9856ef1dce44664",
-"main.dart.js": "0308de581fe931b441e2931ec3dd8a53",
+"index.html": "02e6c023d8c73f8442ae3f016f5ccb42",
+"/": "02e6c023d8c73f8442ae3f016f5ccb42",
+"main.dart.js": "026cbca70205fd98b04ce693275e2db4",
 "manifest.json": "0675cbfb77b594da43017aa777246335",
 "version.json": "7d757bb15399951b5b011d8370b95ac7"
 };
