@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b2cb51224df1bdf2bbb4bb8d2cae180d",
+  "assets/AssetManifest.json": "5b5016f7bf28ff0418b5eee001e51f11",
 "assets/assets/icons/Documents.svg": "0d66436fde3818811c82319665ef91fd",
 "assets/assets/icons/doc_file.svg": "c6c3abe38f2b4e22ab33399b26966b1f",
 "assets/assets/icons/drop_box.svg": "d427e188a7aee4612446d0e9d26e76f1",
@@ -43,16 +43,12 @@ const RESOURCES = {
 "assets/assets/images/GedSegLogoApp.png": "ff5691655b252383dc7c5023c7fc28c8",
 "assets/assets/images/logo.png": "5315be9d0a7602fb12a0ad4c2e3006e9",
 "assets/assets/images/logoGedsegApp.png": "20b2e064e59bf377e57ee211fe6ae39c",
-"assets/assets/images/logoRMR.png": "ba12985a2d7f5bca911be03f31c96497",
-"assets/assets/images/logoRMR2.png": "29b8f2a2a8a68d6ef6161f300dc8fd8c",
-"assets/assets/images/logoRMR3.png": "ce58b9ff9c05143915f0d1b6b68a8119",
-"assets/assets/images/logoSplash.png": "2ce699907d47042e68dcde9498d5fddb",
-"assets/assets/images/logoSplashWeb.png": "e7b1cc4cfa89aa0036d8bc339e337579",
 "assets/assets/images/profile_pic.png": "5f56c3070f1c066ae15ecad12fb44f54",
 "assets/assets/images/worker.jpg": "71dbdf32cbb23fb226532cb7c2a416a1",
 "assets/assets/images/worker.svg": "99a12650c56af53e9f1b74e9548bf72e",
 "assets/assets/images/worker1.png": "70b2164d951e60a30950b8ac416c7750",
 "assets/assets/images/worker2.png": "d550b1e08c90b6a8a53abea581b03502",
+"assets/assets/images/worker_logo.png": "621e0b1b73598808e3165cf7627610dc",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "676bfc6930108625a75ce87bdcfac388",
@@ -87,9 +83,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fd331aa5b12fcd9780495ceb21a72780",
-"/": "fd331aa5b12fcd9780495ceb21a72780",
-"main.dart.js": "222dcf27176cc939ac044659ff4cd051",
+"index.html": "b3be0c40d652e1f25261ccfee4179543",
+"/": "b3be0c40d652e1f25261ccfee4179543",
+"main.dart.js": "f1887fc6cee8f749e2ce44a42f0f0259",
 "manifest.json": "0675cbfb77b594da43017aa777246335",
 "version.json": "7d757bb15399951b5b011d8370b95ac7"
 };
